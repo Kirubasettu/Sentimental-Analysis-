@@ -1,6 +1,6 @@
 # Sentimental-Analysis-
 ## Gather News Data
-You'll need a dataset of news articles. You can scrape news websites, use APIs like News API, or find pre-existing datasets
+You'll need a dataset of news articles.
 ## Preprocess the Data
 Clean and preprocess the text data to remove noise, irrelevant information, and standardize the format. This may include lowercasing, removing stop words, punctuation, and stemming/lemmatization.
 ## Perform Sentiment Analysis
